@@ -1,3 +1,10 @@
+/* archivo-regular - latin */
+@font-face {
+  font-family: 'Barlow';
+  src:
+    url("./assets/7cHqv4kjgoGqM7E3w-os51ostz0rdg.woff2") format("woff2");
+}
+
 @keyframes spinAround {
   from {
     transform: rotate(0deg);
